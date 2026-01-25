@@ -69,7 +69,7 @@ Viajei por toda parte para ganhar estas insígnias!
   </p>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooFerreiraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooFerreiraa&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
