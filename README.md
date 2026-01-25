@@ -28,19 +28,60 @@
 
 Aqui estão os parceiros que escolhi para minha jornada!
 
-| **#001 - Multiverso Literário** | **#002 - Portfólio** |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="80" /><br/>**Charizard (Criatividade)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" width="80" /><br/>**Arcanine (Lealdade)** |
-| **Tech:** Web Development | **Tech:** Frontend / Design |
-| Um universo de histórias e literatura. | Meus projetos pessoais e conquistas. |
-| [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/multiverso-literario) | [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/portifolio) |
-
-| **#003 - Bot Pokémon** | **#004 - Lab System Frontend** |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" width="80" /><br/>**Rapidash (Velocidade)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" /><br/>**Blaziken (Poder)** |
-| **Tech:** Python / Automação | **Tech:** React / Frontend |
-| Um companheiro confiável para tarefas. | Interface moderna para gerenciamento de laboratório. |
-| [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/bot_pokemon) | [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/lab_system_frontend) |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>#001 - Multiverso Literário</h3>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="80" />
+      <br/>
+      <b>Charizard (Criatividade)</b>
+      <br/><br/>
+      <b>Tech:</b> Web Development
+      <br/>
+      Um universo de histórias e literatura.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/multiverso-literario">🔗 Link do Repositório</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>#002 - Portfólio</h3>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" width="80" />
+      <br/>
+      <b>Arcanine (Lealdade)</b>
+      <br/><br/>
+      <b>Tech:</b> Frontend / Design
+      <br/>
+      Meus projetos pessoais e conquistas.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/portifolio">🔗 Link do Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>#003 - Bot Pokémon</h3>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" width="80" />
+      <br/>
+      <b>Rapidash (Velocidade)</b>
+      <br/><br/>
+      <b>Tech:</b> Python / Automação
+      <br/>
+      Um companheiro confiável para tarefas.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/bot_pokemon">🔗 Link do Repositório</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>#004 - Lab System Frontend</h3>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" />
+      <br/>
+      <b>Blaziken (Poder)</b>
+      <br/><br/>
+      <b>Tech:</b> React / Frontend
+      <br/>
+      Interface moderna para gerenciamento de laboratório.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/lab_system_frontend">🔗 Link do Repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
