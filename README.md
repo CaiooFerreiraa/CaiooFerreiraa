@@ -64,7 +64,7 @@ Viajei por toda parte para ganhar estas insígnias!
 <div align="center">
   <p align="center">
     <a href="https://github.com/CaiooFerreiraa/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=transparent&hide_border=true&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=dark&hide_border=true&show_icons=true" />
     </a>
   </p>
   <br/>
