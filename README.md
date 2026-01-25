@@ -10,7 +10,9 @@
 
 ---
 
-## 🎒 Cartão de Treinador
+<div>
+  <p>## 🎒 Cartão de Treinador</p>
+</div>
 
 <div align="center">
   <p>
