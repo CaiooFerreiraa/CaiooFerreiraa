@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <h3>🎒 Cartão de Treinador</h3>
+  <h2>🎒 Cartão de Treinador</h2>
 </div>
 
 <div align="center">
@@ -30,11 +30,13 @@
 
 ---
 
-## 🏆 Meu Time Pokémon (Projetos em Destaque)
+<div align="center">
+  <h2>🏆 Meu Time Pokémon (Projetos em Destaque)</h2>
+</div>
 
 Aqui estão os parceiros que escolhi para minha jornada!
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
       <h3>#001 - Multiverso Literário</h3>
