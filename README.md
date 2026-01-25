@@ -1,52 +1,52 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1cWZ6bXF3NHl5cmZ6bm95bXF3NHl5cmZ6bm95bXF3NHl5cmZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13CoXDiaCcCnz2/giphy.gif" width="100"/>
-  <h1>A Wild Developer Appeared!</h1>
+  <h1>Um Desenvolvedor Selvagem Apareceu!</h1>
 </div>
 
 <div align="center">
-  <h3>⚡ Trainer: CaiooFerreiraa | Level: 2024 ⚡</h3>
-  <p>Exploring the region of Full Stack Development & catching all the bugs!</p>
+  <h3>⚡ Treinador: CaiooFerreiraa | Nível: 2024 ⚡</h3>
+  <p>Explorando a região do Desenvolvimento Full Stack & capturando todos os bugs!</p>
 </div>
 
 ---
 
-## 🎒 Trainer Card
+## 🎒 Cartão de Treinador
 
-> *"I wanna be the very best, like no one ever was. To code them is my real test, to deploy them is my cause!"*
+> *"Eu serei o melhor, como ninguém jamais foi. Codar é o meu teste, fazer deploy é minha causa!"*
 
-| **Attribute** | **Data** |
+| **Atributo** | **Dados** |
 | :--- | :--- |
-| **Name** | Caio Ferreira |
-| **Class** | Software Engineer |
-| **Region** | Brazil |
-| **Main Type** | 🔥 Fire (Passion & Intensity) |
-| **Status** | 🟢 Burning Bright & Ready to Code |
+| **Nome** | Caio Ferreira |
+| **Classe** | Engenheiro de Software |
+| **Região** | Brasil |
+| **Tipo Principal** | 🔥 Fogo (Paixão & Intensidade) |
+| **Status** | 🟢 Queimando Brilhantemente & Pronto para Codar |
 
 ---
 
-## 🏆 My Pokémon Team (Featured Projects)
+## 🏆 Meu Time Pokémon (Projetos em Destaque)
 
-Here are the partners I choose for my journey!
+Aqui estão os parceiros que escolhi para minha jornada!
 
 | **#001 - Multiverso Literário** | **#002 - Portfólio** |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="80" /><br/>**Charizard (Creativity)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" width="80" /><br/>**Arcanine (Loyalty)** |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="80" /><br/>**Charizard (Criatividade)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" width="80" /><br/>**Arcanine (Lealdade)** |
 | **Tech:** Web Development | **Tech:** Frontend / Design |
-| A universe of stories and literature. | My personal showcase and achievements. |
-| [🔗 Link to Repository](https://github.com/CaiooFerreiraa/multiverso-literario) | [🔗 Link to Repository](https://github.com/CaiooFerreiraa/portifolio) |
+| Um universo de histórias e literatura. | Meus projetos pessoais e conquistas. |
+| [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/multiverso-literario) | [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/portifolio) |
 
 | **#003 - Bot Pokémon** | **#004 - Lab System Frontend** |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" width="80" /><br/>**Rapidash (Speed)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" /><br/>**Blaziken (Power)** |
-| **Tech:** Python / Automation | **Tech:** React / Frontend |
-| A reliable companion for tasks. | Modern frontend interface for lab management. |
-| [🔗 Link to Repository](https://github.com/CaiooFerreiraa/bot_pokemon) | [🔗 Link to Repository](https://github.com/CaiooFerreiraa/lab_system_frontend) |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" width="80" /><br/>**Rapidash (Velocidade)** | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" /><br/>**Blaziken (Poder)** |
+| **Tech:** Python / Automação | **Tech:** React / Frontend |
+| Um companheiro confiável para tarefas. | Interface moderna para gerenciamento de laboratório. |
+| [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/bot_pokemon) | [🔗 Link do Repositório](https://github.com/CaiooFerreiraa/lab_system_frontend) |
 
 ---
 
-## 🎖️ Gym Badges (Skills)
+## 🎖️ Insígnias de Ginásio (Habilidades)
 
-I've traveled far and wide to earn these badges!
+Viajei por toda parte para ganhar estas insígnias!
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,7 +59,7 @@ I've traveled far and wide to earn these badges!
 
 ---
 
-## 📊 Pokedéx Stats
+## 📊 Status da Pokédex
 
 <div align="center">
   <a href="https://github.com/CaiooFerreiraa/github-readme-stats">
@@ -74,5 +74,5 @@ I've traveled far and wide to earn these badges!
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1cWZ6bXF3NHl5cmZ6bm95bXF3NHl5cmZ6bm95bXF3NHl5cmZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LdOyjZ7io5Msw/giphy.gif" width="50" />
   <br/>
-  <b>Thanks for visiting the Lab!</b>
+  <b>Obrigado por visitar o Laboratório!</b>
 </div>
