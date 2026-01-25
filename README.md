@@ -12,15 +12,19 @@
 
 ## 🎒 Cartão de Treinador
 
-> *"Eu serei o melhor, como ninguém jamais foi. Codar é o meu teste, fazer deploy é minha causa!"*
-
-| **Atributo** | **Dados** |
-| :--- | :--- |
-| **Nome** | Caio Ferreira |
-| **Classe** | Engenheiro de Software |
-| **Região** | Brasil |
-| **Tipo Principal** | 🔥 Fogo (Paixão & Intensidade) |
-| **Status** | 🟢 Queimando Brilhantemente & Pronto para Codar |
+<div align="center">
+  <p>
+    > *"Eu serei o melhor, como ninguém jamais foi. Codar é o meu teste, fazer deploy é minha causa!"*
+  
+  | **Atributo** | **Dados** |
+  | :--- | :--- |
+  | **Nome** | Caio Ferreira |
+  | **Classe** | Engenheiro de Software |
+  | **Região** | Brasil |
+  | **Tipo Principal** | 🔥 Fogo (Paixão & Intensidade) |
+  | **Status** | 🟢 Queimando Brilhantemente & Pronto para Codar |
+  </p>
+</div>
 
 ---
 
