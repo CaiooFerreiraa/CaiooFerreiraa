@@ -34,7 +34,7 @@
   <h2>🏆 Meu Time Pokémon (Projetos em Destaque)</h2>
 </div>
 
-Aqui estão os parceiros que escolhi para minha jornada!
+<p align="center">Aqui estão os parceiros que escolhi para minha jornada!</p>
 
 <table width="100%" align="center">
   <tr>
