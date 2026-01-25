@@ -14,10 +14,10 @@
   <h2>🎒 Cartão de Treinador</h2>
 </div>
 
+> *"Eu serei o melhor, como ninguém jamais foi. Codar é o meu teste, fazer deploy é minha causa!"*
+
 <div align="center">
   <p>
-    > *"Eu serei o melhor, como ninguém jamais foi. Codar é o meu teste, fazer deploy é minha causa!"*
-  
   | **Atributo** | **Dados** |
   | :--- | :--- |
   | **Nome** | Caio Ferreira |
