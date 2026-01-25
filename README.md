@@ -19,8 +19,7 @@
 | **Name** | Caio Ferreira |
 | **Class** | Software Engineer |
 | **Region** | Brazil |
-| **Main Type** | ![Fogo](https://custom-icon-badges.demolab.com)
- Fire (Passion & Intensity) |
+| **Main Type** | 🔥 Fire (Passion & Intensity) |
 | **Status** | 🟢 Burning Bright & Ready to Code |
 
 ---
