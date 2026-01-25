@@ -10,8 +10,8 @@
 
 ---
 
-<div>
-  <p>## 🎒 Cartão de Treinador</p>
+<div align="center">
+  <h3>🎒 Cartão de Treinador</h3>
 </div>
 
 <div align="center">
