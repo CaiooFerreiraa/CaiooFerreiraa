@@ -62,10 +62,10 @@ I've traveled far and wide to earn these badges!
 ## 📊 Pokedéx Stats
 
 <div align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa)](https://github.com/CaiooFerreiraa/github-readme-stats)
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooFerreiraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa)](https://github.com/CaiooFerreiraa/github-readme-stats)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooFerreiraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </a>
 </div>
 
 <div align="center">
