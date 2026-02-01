@@ -117,9 +117,9 @@ Viajei por toda parte para ganhar estas insígnias!
     </a>
   </p>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiooFerreiraa&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
-  </a>
+  <p>
+    [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=CaiooFerreiraa&custom_title=GitHub%2520Stats&theme=aura&title_color=43ed30&text_color=ff5151&icon_color=74de61&ring_color=80ff00&border_color=e4e2e2&hide_border=true&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/CaiooFerreiraa)
+  </p>
 </div>
 
 <div align="center">
