@@ -112,8 +112,8 @@ Viajei por toda parte para ganhar estas insígnias!
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/CaiooFerreiraa/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=dark&hide_border=true&show_icons=true" />
+    <a >
+      <img src="https://github-streak-stats-ruby.vercel.app/?user=CaiooFerreiraa&theme=react&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de CaiooFerreiraa" width="466" height="194" loading="lazy" />
     </a>
   </p>
   <br/>
