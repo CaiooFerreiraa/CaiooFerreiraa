@@ -113,7 +113,7 @@ Viajei por toda parte para ganhar estas insígnias!
 <div align="center">
   <p align="center">
     <a >
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=CaiooFerreiraa&theme=react&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de CaiooFerreiraa" width="466" height="194" loading="lazy" />
+      <img src="https://helio-github-stats.vercel.app/api/top-langs?username=CaiooFerreiraa&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens%2520mais%2520usadas&hide=EJS%2CCSS%2CHTML" alt="Cartão" />
     </a>
   </p>
   <br/>
