@@ -118,7 +118,7 @@ Viajei por toda parte para ganhar estas insígnias!
   </p>
   <br/>
   <p>
-    [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=CaiooFerreiraa&custom_title=GitHub%2520Stats&theme=aura&title_color=43ed30&text_color=ff5151&icon_color=74de61&ring_color=80ff00&border_color=e4e2e2&hide_border=true&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/CaiooFerreiraa)
+    <img src="https://helio-github-stats.vercel.app/api?username=CaiooFerreiraa&custom_title=Github%2520Status&theme=shadow_blue&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
   </p>
 </div>
 
