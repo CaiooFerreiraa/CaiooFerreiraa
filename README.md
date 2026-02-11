@@ -77,16 +77,16 @@
       <a href="https://github.com/CaiooFerreiraa/bot_pokemon">🔗 Link do Repositório</a>
     </td>
     <td width="50%" align="center">
-      <h3>#004 - Lab System Frontend</h3>
+      <h3>#004 - Lab System </h3>
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" />
       <br/>
       <b>Blaziken (Poder)</b>
       <br/><br/>
-      <b>Tech:</b> React / Frontend
+      <b>Tech:</b> React 
       <br/>
       Interface moderna para gerenciamento de laboratório.
       <br/>
-      <a href="https://github.com/CaiooFerreiraa/lab_system_frontend">🔗 Link do Repositório</a>
+      <a href="https://github.com/CaiooFerreiraa/lab-system">🔗 Link do Repositório</a>
     </td>
   </tr>
 </table>
