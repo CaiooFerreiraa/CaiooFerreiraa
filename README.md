@@ -138,12 +138,6 @@ Viajei por toda parte para ganhar estas insígnias!
 ## 📊 Status da Pokédex
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/CaiooFerreiraa/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=dark&hide_border=true&show_icons=true&custom_title=Caio%20Ferreira%20Almeida%20%7C%20Lvl%202026" />
-    </a>
-  </p>
-  <br/>
   <p>
     <img src="https://helio-github-stats.vercel.app/api?username=CaiooFerreiraa&custom_title=Github%20Status&theme=shadow_blue&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
   </p>
