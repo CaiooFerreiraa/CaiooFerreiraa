@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R1cWZ6bXF3NHl5cmZ6bm95bXF3NHl5cmZ6bm95bXF3NHl5cmZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13CoXDiaCcCnz2/giphy.gif" width="100"/>
-  <h1>Um Desenvolvedor Selvagem Apareceu!</h1>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/entei.gif" width="100"/>
+  <h1> Um Desenvolvedor de Fogo Selvagem Apareceu! </h1>
 </div>
 
 <div align="center">
-  <h3>⚡ Treinador: CaiooFerreiraa | Nível: 2024 ⚡</h3>
-  <p>Explorando a região do Desenvolvimento Full Stack & capturando todos os bugs!</p>
+  <h3>⚡ Treinador: CaiooFerreiraa | Nível: 2026 ⚡</h3>
+  <img src="https://img.shields.io/badge/Ano-2026-orange?style=for-the-badge&logo=firebase&logoColor=white" />
+  <p>Explorando a região do Desenvolvimento Full Stack & capturando todos os bugs com ataques de fogo!</p>
 </div>
 
 ---
@@ -21,7 +22,7 @@
   | **Atributo** | **Dados** |
   | :--- | :--- |
   | **Nome** | Caio Ferreira |
-  | **Classe** | Engenheiro de Software |
+  | **Classe** | Engenheiro de Software Full Stack |
   | **Região** | Brasil |
   | **Tipo Principal** | 🔥 Fogo (Paixão & Intensidade) |
   | **Status** | 🟢 Queimando Brilhantemente & Pronto para Codar |
@@ -34,59 +35,83 @@
   <h2>🏆 Meu Time Pokémon (Projetos em Destaque)</h2>
 </div>
 
-<p align="center">Aqui estão os parceiros que escolhi para minha jornada!</p>
+<p align="center">Aqui estão os parceiros de elite que escolhi para minha jornada!</p>
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
-      <h3>#001 - Multiverso Literário</h3>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="80" />
+    <td width="33.33%" align="center">
+      <h3>#244 - Multiverso Literário</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/entei.gif" width="80" />
       <br/>
-      <b>Charizard (Criatividade)</b>
+      <b>Entei</b>
       <br/><br/>
-      <b>Tech:</b> Web Development
+      <b>Tech:</b> Web / Cliente ✅
       <br/>
       Um universo de histórias e literatura.
       <br/>
-      <a href="https://github.com/CaiooFerreiraa/multiverso-literario">🔗 Link do Repositório</a>
+      <a href="https://github.com/CaiooFerreiraa/multiverso-literario">🔗 Ver Projeto</a>
     </td>
-    <td width="50%" align="center">
-      <h3>#002 - Portfólio</h3>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" width="80" />
+    <td width="33.33%" align="center">
+      <h3>#911 - Raízes do Sul</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/skeledirge.gif" width="80" />
       <br/>
-      <b>Arcanine (Lealdade)</b>
+      <b>Skeledirge</b>
       <br/><br/>
-      <b>Tech:</b> Frontend / Design
+      <b>Tech:</b> Web / Cliente ✅
       <br/>
-      Meus projetos pessoais e conquistas.
+      Tradição e qualidade em cada detalhe.
       <br/>
-      <a href="https://github.com/CaiooFerreiraa/portifolio">🔗 Link do Repositório</a>
+      <a href="https://github.com/CaiooFerreiraa/raizes-do-sul">🔗 Ver Projeto</a>
+    </td>
+    <td width="33.33%" align="center">
+      <h3>#157-H - Finance Farm</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/typhlosion-hisui.gif" width="80" />
+      <br/>
+      <b>Typhlosion (Hisui)</b>
+      <br/><br/>
+      <b>Tech:</b> Fintech / Dashboard
+      <br/>
+      Gestão financeira explosiva e eficiente.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/finance-farm">🔗 Ver Projeto</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>#003 - Bot Pokémon</h3>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" width="80" />
+    <td width="33.33%" align="center">
+      <h3>#637 - Portfolio Prime</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/volcarona.gif" width="80" />
       <br/>
-      <b>Rapidash (Velocidade)</b>
+      <b>Volcarona</b>
       <br/><br/>
-      <b>Tech:</b> Python / Automação
+      <b>Tech:</b> Design / Next.js
       <br/>
-      Um companheiro confiável para tarefas.
+      Meu portfólio elegante e performático.
       <br/>
-      <a href="https://github.com/CaiooFerreiraa/bot_pokemon">🔗 Link do Repositório</a>
+      <a href="https://github.com/CaiooFerreiraa/prime">🔗 Ver Projeto</a>
     </td>
-    <td width="50%" align="center">
-      <h3>#004 - Lab System Frontend</h3>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png" width="80" />
+    <td width="33.33%" align="center">
+      <h3>#324 - Conecta Saúde</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/torkoal.gif" width="80" />
       <br/>
-      <b>Blaziken (Poder)</b>
+      <b>Torkoal</b>
       <br/><br/>
-      <b>Tech:</b> React / Frontend
+      <b>Tech:</b> HealthTech / React
       <br/>
-      Interface moderna para gerenciamento de laboratório.
+      Conectando pacientes e profissionais.
       <br/>
-      <a href="https://github.com/CaiooFerreiraa/lab_system_frontend">🔗 Link do Repositório</a>
+      <a href="https://github.com/CaiooFerreiraa/conecta-saude">🔗 Ver Projeto</a>
+    </td>
+    <td width="33.33%" align="center">
+      <h3>#392 - Marketing Place</h3>
+      <img src="https://play.pokemonshowdown.com/sprites/ani/infernape.gif" width="80" />
+      <br/>
+      <b>Infernape</b>
+      <br/><br/>
+      <b>Tech:</b> E-commerce / Marketplace
+      <br/>
+      Agilidade e poder nas vendas online.
+      <br/>
+      <a href="https://github.com/CaiooFerreiraa/marketplace">🔗 Ver Projeto</a>
     </td>
   </tr>
 </table>
@@ -99,11 +124,13 @@ Viajei por toda parte para ganhar estas insígnias!
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -113,7 +140,7 @@ Viajei por toda parte para ganhar estas insígnias!
 <div align="center">
   <p align="center">
     <a href="https://github.com/CaiooFerreiraa/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=dark&hide_border=true&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CaiooFerreiraa&theme=dark&hide_border=true&show_icons=true&custom_title=Caio%20Ferreira%20Almeida%20%7C%20Lvl%202026" />
     </a>
   </p>
   <br/>
@@ -123,7 +150,7 @@ Viajei por toda parte para ganhar estas insígnias!
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1cWZ6bXF3NHl5cmZ6bm95bXF3NHl5cmZ6bm95bXF3NHl5cmZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LdOyjZ7io5Msw/giphy.gif" width="50" />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/skeledirge.gif" width="50" />
   <br/>
   <b>Obrigado por visitar o Laboratório!</b>
 </div>
